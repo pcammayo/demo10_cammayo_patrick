@@ -1,6 +1,7 @@
 //----------------------------------------
 //  Your web app's Firebase configuration
 //----------------------------------------
+/*
 var firebaseConfig = {
     apiKey: ,
     authDomain: ,
@@ -9,7 +10,7 @@ var firebaseConfig = {
     messagingSenderId: ,
     appId:
 };
-
+*/
 //--------------------------------------------
 // initialize the Firebase app
 // initialize Firestore database if using it
